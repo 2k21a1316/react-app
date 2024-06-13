@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-
+// component are of two types function based and class based 
 function App() {
   return (
     <div className="App">
